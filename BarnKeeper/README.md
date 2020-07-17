@@ -27,5 +27,5 @@ Press space key to spawn animals.
 ## Gameplay
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/34216243/87829102-01873600-c887-11ea-8f97-d48f40f995b0.gif">
+  <img src="https://user-images.githubusercontent.com/34216243/87831178-63499f00-c88b-11ea-8dff-f8a52a9fcdfa.gif">
 </p>
