@@ -1,9 +1,12 @@
 # Pong
-It's a 3D Unity project for GAD1004 class.
+It's a 2D Unity project for GAD1004 class.
 
 ## Goal
 
 To practice character controller and collisions.
+
+## Instructions
+Use arrow keys and "WASD" keys to move.
 
 ## Acknowledgements
 * Collisions </br>
