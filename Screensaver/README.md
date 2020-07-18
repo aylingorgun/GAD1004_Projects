@@ -1,9 +1,12 @@
-# Rush Hour AI
+# Screensaver
 It's a 3D Unity project for GAD1004 class.
 
 ## Goal
 
 To practice scripting and comparing awake and start functions.
+
+## Instructions
+You must build and run the project to be able to the full effect.
 
 ## Acknowledgements
 * Difference between start and awake functions </br>
